@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\al881\\OneDrive\\Escritorio\\zoo\\zoologico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6484C1-FE69-4D4D-93B6-7FA45EC0AFEF}|zoologico\\zoologico.csproj|c:\\users\\al881\\onedrive\\escritorio\\zoo\\zoologico\\zoologico\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6484C1-FE69-4D4D-93B6-7FA45EC0AFEF}|zoologico\\zoologico.csproj|solutionrelative:zoologico\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6484C1-FE69-4D4D-93B6-7FA45EC0AFEF}|zoologico\\zoologico.csproj|c:\\users\\al881\\onedrive\\escritorio\\zoo\\zoologico\\zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6484C1-FE69-4D4D-93B6-7FA45EC0AFEF}|zoologico\\zoologico.csproj|solutionrelative:zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\OneDrive\\Escritorio\\zoo\\zoologico\\zoologico\\Animal.cs",
+              "RelativeDocumentMoniker": "zoologico\\Animal.cs",
+              "ToolTip": "C:\\Users\\al881\\OneDrive\\Escritorio\\zoo\\zoologico\\zoologico\\Animal.cs",
+              "RelativeToolTip": "zoologico\\Animal.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAADwv9kAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:21:04.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\al881\\OneDrive\\Escritorio\\zoo\\zoologico\\zoologico\\Program.cs",
+              "RelativeDocumentMoniker": "zoologico\\Program.cs",
+              "ToolTip": "C:\\Users\\al881\\OneDrive\\Escritorio\\zoo\\zoologico\\zoologico\\Program.cs",
+              "RelativeToolTip": "zoologico\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T06:15:52.407Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

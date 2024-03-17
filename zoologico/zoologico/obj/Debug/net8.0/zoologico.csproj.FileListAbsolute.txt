@@ -1,0 +1,14 @@
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\bin\Debug\net8.0\zoologico.exe
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\bin\Debug\net8.0\zoologico.deps.json
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\bin\Debug\net8.0\zoologico.runtimeconfig.json
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\bin\Debug\net8.0\zoologico.dll
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\bin\Debug\net8.0\zoologico.pdb
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\zoologico.AssemblyInfoInputs.cache
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\zoologico.AssemblyInfo.cs
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\zoologico.csproj.CoreCompileInputs.cache
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\zoologico.dll
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\refint\zoologico.dll
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\zoologico.pdb
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\zoologico.genruntimeconfig.cache
+C:\Users\al881\OneDrive\Escritorio\zoo\zoologico\zoologico\obj\Debug\net8.0\ref\zoologico.dll
